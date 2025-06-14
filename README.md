@@ -96,7 +96,7 @@ Update: Edit comments
 Delete: Remove comments
 
 Steps to run the project locally
-1. Clone or Download the Project
+1. Clone or Download the Project(in master branch)
 2.Open with NetBeans IDE
 -Launch NetBeans.
 -Go to File > Open Project.
